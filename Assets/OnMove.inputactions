@@ -1,0 +1,34 @@
+{
+    "name": "OnMove",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "ec3ffcb8-6b52-48d2-9a1e-95521094f5b7",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Button",
+                    "id": "3d8936a7-1b7c-488f-906e-0c09ee3d30ad",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "596c7702-27b3-4b84-ae8c-d06acff933ea",
+                    "path": "<Keyboard>/anyKey",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
