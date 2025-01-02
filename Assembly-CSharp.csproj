@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\GameManager.cs" />
     <Compile Include="Assets\PlayerControls.cs" />
+    <Compile Include="Assets\Mini Toon Office\Readme\Scripts\Readme.cs" />
     <Compile Include="Assets\StarterAssetsInputs.cs" />
   </ItemGroup>
   <ItemGroup>
